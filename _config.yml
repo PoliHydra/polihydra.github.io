@@ -7,6 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.polihydra.org" # the base hostname & protocol for your site
 
 # Build settings
+gems:
+  - jekyll-sitemap
 markdown: kramdown
 sass:
     style: compressed
+    sass_dir: _sass
