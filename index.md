@@ -21,7 +21,7 @@ varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies
 nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.
 
 <figure markdown="1">
-[![hydra](/myth/btv1b60006156.jpeg){: width="75%"}][gallicasrc]
+[![hydra](/myth/btv1b60006156.png)][gallicasrc]
 <figcaption markdown="1">
 Image source: [Bibliothèque national de France][gallicasrc]
 
