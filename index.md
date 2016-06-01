@@ -20,6 +20,15 @@ viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus
 varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies
 nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui.
 
+<figure markdown="1">
+[![hydra](/myth/btv1b60006156.jpeg){: width="75%"}][gallicasrc]
+<figcaption markdown="1">
+Image source: [Bibliothèque national de France][gallicasrc]
+
+[gallicasrc]: http://gallica.bnf.fr/ark:/12148/btv1b60006156/f455.item
+</figcaption>
+</figure>
+
 Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet
 nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer
 ante arcu, accumsan a, consectetuer eget, posuere ut, mauris.
