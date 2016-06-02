@@ -1,6 +1,7 @@
 ---
 layout: default
 title: The Hydra Project
+norobots: true
 ---
 # This is the Hydra home
 

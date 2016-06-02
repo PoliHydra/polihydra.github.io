@@ -1,2 +1,7 @@
+---
+---
 User-agent: *
-Disallow: /
+Disallow: /404.html
+Disallow: /myth
+
+Sitemap: {{ site.url }}/sitemap.xml
