@@ -2,13 +2,14 @@
 title: The Hydra Home
 email: stefano.miccoli@polimi.it
 description: >
-  Home of the Hydra project: HYDRogen embrittlement in Abaqus.
+  Home of the PoliHydra project: HYDRogen embrittlement in Abaqus.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.polihydra.org" # the base hostname & protocol for your site
 
 # Build settings
 gems:
   - jekyll-sitemap
+  - jekyll-feed
 markdown: kramdown
 sass:
     style: compressed
