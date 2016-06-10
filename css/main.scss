@@ -27,6 +27,9 @@ nav {
     font-weight: 400;
     a {
         text-decoration: none;
+        &:hover {
+            border-bottom: 2px solid $main500;
+        }
     }
     ul {
         margin-left: -10px;
@@ -40,6 +43,9 @@ nav {
 
 a {
     color: $accent700;
+    &:hover {
+        color: $accent400;
+    }
 }
 
 figure {
