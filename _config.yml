@@ -1,8 +1,7 @@
 # Site settings
-title: The Hydra Home
-email: stefano.miccoli@polimi.it
+title: The PoliHydra project
 description: >
-  Home of the PoliHydra project: HYDRogen embrittlement in Abaqus.
+  HYDRogen embrittlement FE Analysis.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.polihydra.org" # the base hostname & protocol for your site
 

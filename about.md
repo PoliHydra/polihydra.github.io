@@ -7,10 +7,10 @@ robots: noarchive
 # {{ page.title }}
 
 PoliHydra was created at [**POLI**tecnico di
-Milano](http://www.polimi.it) by a small group of researchers to
+Milano][polimi] by a small group of researchers to
 develop numerical tools for the simulation of **HYDR**ogen
 embrittlement with **A**baqus FEA, hence the rather silly
-“<u>Poli</u>&nbsp;<u>Hydr</u>&nbsp;<u>A</u>” name.
+“<u>Poli</u>&nbsp;<u>Hydr</u>&nbsp;<u>a</u>” name.
 
 The project grew out from our desire to make published research
 finding fully replicable. However numerical simulations in this field
@@ -31,8 +31,12 @@ hosted on [GitHub Pages](https://pages.github.com/)
 
 ## The team
 
+@ Politecnico di Milano, [Dipartimento di Meccanica][dmec]:
+
 + Giorgia Gobbi
-
 + Chiara Colombo
-
 + Stefano Miccoli
+
+[polimi]: http://www.polimi.it/en/english-version/
+[dmec]: http://www.mecc.polimi.it/en/
+*[VCS]: version control system

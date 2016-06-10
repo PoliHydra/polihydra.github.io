@@ -1,7 +1,7 @@
 ---
 ---
 User-agent: *
-Disallow: /404.html
-Disallow: /myth
+Disallow: /myth/
+Disallow: /icons/
 
 Sitemap: {{ site.url }}/sitemap.xml

@@ -2,7 +2,7 @@
 # main Sass file
 ---
 @charset "utf-8";
-@import url(https://fonts.googleapis.com/css?family=Exo+2:400,200,400italic,700);
+@import url(https://fonts.googleapis.com/css?family=Exo+2:400,200,400italic,700,600);
 
 // sass partial
 @import "colors";
@@ -52,5 +52,12 @@ figure {
     max-width: 100%;
     img {
         max-width: 112%;
+    }
+}
+
+// site local "semantic" styling
+.biblio {
+    span.authors, span.year {
+        font-weight: 600;
     }
 }

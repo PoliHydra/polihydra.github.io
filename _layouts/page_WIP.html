@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    {% include head_common.html %}
+    <link rel="stylesheet" href="{{ "/css/wip.css" | prepend: site.baseurl }}">
+  </head>
+
+  <body>
+
+    {% include div_wip.html %}
+
+    {% include header.html %}
+
+    {{ content }}
+
+    {% include footer.html %}
+
+    {% include div_wip.html %}
+
+  </body>
+
+</html>

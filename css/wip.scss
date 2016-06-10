@@ -1,0 +1,19 @@
+---
+# main Sass file
+---
+@charset "utf-8";
+
+// sass partial
+@import "colors";
+
+.WIP {
+    color: $accent400;
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: center;
+    img.warn {
+        vertical-align: middle;
+        padding: 0px 10px;
+        width: 50px;
+    }
+}

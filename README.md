@@ -2,7 +2,6 @@
 published: false
 ---
 
-# [HYDRogen embrittlement in Abaqus](http://www.polihydra.org)
+# PoliHydra site
 
-Companion site for the
-[HYDRA code](https://github.com/PoliHydra/the-hydra-code).
+Jekyll source of the PoliHydra project site <http://www.polihydra.org>.
