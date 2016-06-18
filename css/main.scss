@@ -2,7 +2,7 @@
 # main Sass file
 ---
 @charset "utf-8";
-@import url(https://fonts.googleapis.com/css?family=Exo+2:400,200,400italic,700,600);
+@import 'https://fonts.googleapis.com/css?family=Exo+2:400,400i,600,700|Share+Tech+Mono';
 
 // sass partial
 @import "colors";
@@ -53,6 +53,14 @@ figure {
     img {
         max-width: 112%;
     }
+    code {
+        font-size: 100%;
+    }
+}
+
+code {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 85%;
 }
 
 // site local "semantic" styling
