@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: About the PoliHydra Project
 permalink: /about/
 robots: noarchive
