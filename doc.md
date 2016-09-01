@@ -1,6 +1,6 @@
 ---
 layout: page_WIP
-title: PoliHydra Project documentation
+title: Documentation
 robots: noindex
 permalink: /doc/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the PoliHydra Project
+title: About
 permalink: /about/
 robots: noarchive
 ---

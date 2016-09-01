@@ -1,6 +1,6 @@
 ---
 layout: page_WIP
-title: How to cite PoliHydra
+title: Citing
 robots: noindex
 permalink: /citing/
 ---

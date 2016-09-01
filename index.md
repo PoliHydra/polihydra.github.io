@@ -1,6 +1,6 @@
 ---
 layout: page_WIP
-title: The PoliHydra Project
+title: Home
 robots: noindex
 ---
 # {{ page.title }}
