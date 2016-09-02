@@ -7,7 +7,8 @@ robots: noindex
 # {{ page.title }}
 
 <figure markdown="1">
-![The Hydra constallation](/myth/btv1b60006156.png)
+![The Hydra constallation represented in an arab manuscript from
+the 15th century.](/myth/btv1b60006156.png)
 <figcaption markdown="1">
 The Hydra constellation.
 (Image source: [Bibliothèque national de France][gallicasrc])
