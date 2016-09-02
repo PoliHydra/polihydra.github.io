@@ -6,9 +6,9 @@ robots: noarchive
 ---
 # {{ page.title }}
 
-PoliHydra was created at [**POLI**tecnico di
+PoliHydra was created at [**Poli**tecnico di
 Milano][polimi] by a small group of researchers to
-develop numerical tools for the simulation of **HYDR**ogen
+develop numerical tools for the simulation of **Hydr**ogen
 embrittlement with **A**baqus FEA, hence the rather silly
 “<u>Poli</u>&nbsp;<u>Hydr</u>&nbsp;<u>a</u>” name.
 

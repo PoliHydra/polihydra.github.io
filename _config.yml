@@ -1,7 +1,7 @@
 # Site settings
-title: The PoliHydra project
+title: The PoliHydra Project
 description: >
-  HYDRogen embrittlement FE Analysis.
+  Hydrogen embrittlement FE Analysis tools.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.polihydra.org" # the base hostname & protocol for your site
 

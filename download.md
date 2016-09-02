@@ -3,6 +3,8 @@ layout: page
 title: Download
 permalink: /download/
 robots: noindex
+seo:
+    links: https://github.com/PoliHydra/hydra/releases
 ---
 # {{ page.title }}
 
