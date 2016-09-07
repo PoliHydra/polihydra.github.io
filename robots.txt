@@ -3,5 +3,6 @@
 User-agent: *
 Disallow: /myth/
 Disallow: /icons/
+Disallow: /images-p/
 
 Sitemap: {{ site.url }}/sitemap.xml
