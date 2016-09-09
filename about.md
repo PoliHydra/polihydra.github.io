@@ -12,6 +12,21 @@ develop numerical tools for the simulation of **Hydr**ogen
 embrittlement with **A**baqus FEA, hence the rather silly
 “<u>Poli</u>&nbsp;<u>Hydr</u>&nbsp;<u>a</u>” name.
 
+<figure markdown="1">
+
+![The Hydra constallation represented in an arab manuscript from the
+15th century.](/myth/btv1b60006156.png)
+
+<figcaption markdown="1">
+The Hydra constellation.
+<cite>Image source: [Bibliothèque national de France][gallicasrc]</cite>
+</figcaption>
+
+</figure>
+
+[gallicasrc]: http://gallica.bnf.fr/ark:/12148/btv1b60006156/f455.item
+
+
 The project grew out from our desire to make published research
 finding fully replicable. However numerical simulations in this field
 require quite a complicated setup and extensive use of Abaqus *user
@@ -36,6 +51,7 @@ hosted on [GitHub Pages](https://pages.github.com/)
 + Giorgia Gobbi
 + Chiara Colombo
 + Stefano Miccoli
++ Laura Vergani
 
 [polimi]: http://www.polimi.it/en/english-version/
 [dmec]: http://www.mecc.polimi.it/en/

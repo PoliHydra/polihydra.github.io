@@ -56,6 +56,13 @@ figure {
     code {
         font-size: 100%;
     }
+    cite {
+	 display: block;
+	 font-size: 50%;
+    }
+    cite::before {
+         content: "— ";
+    }
 }
 
 code {
