@@ -1,7 +1,3 @@
----
-published: false
----
-
 # PoliHydra site
 
-Jekyll source of the PoliHydra project site <http://www.polihydra.org>.
+Jekyll source of the PoliHydra project site: <http://www.polihydra.org>.
