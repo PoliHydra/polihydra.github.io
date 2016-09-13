@@ -2,6 +2,7 @@
 layout: page_WIP
 title: Cohesive surface
 robots: noindex
+sitemap: false
 mathjax: true
 ---
 # {{ page.title }}

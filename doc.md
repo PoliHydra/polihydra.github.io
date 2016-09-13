@@ -2,6 +2,7 @@
 layout: page_WIP
 title: Documentation
 robots: noindex
+sitemap: false
 permalink: /doc/
 ---
 # {{ page.title }}

@@ -2,6 +2,7 @@
 layout: page_WIP
 title: Citing
 robots: noindex
+sitemap: false
 permalink: /citing/
 ---
 # {{ page.title }}
