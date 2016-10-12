@@ -1,9 +1,12 @@
 ---
-layout: page_WIP
+layout: page
 title: Citing
-robots: noindex
-sitemap: false
+robots: nocache
+sitemap: true
 permalink: /citing/
+description: >
+  A collection of literature relevant to the Polihydra Project. Journal
+  articles about the hydra code will be listed here, along with applications.
 ---
 # {{ page.title }}
 
@@ -16,16 +19,9 @@ relevant publications.
 
 * <span class="authors">G. Gobbi, C. Colombo, S. Miccoli, L. Vergani</span>
   <span class="year">(2016)</span>.
-  <span class="title">Paper A</span>,
-  <span class="where">to appear</span>.
-{::comment}
-  <span class="doi"></span>
-{:/comment}
-
-* <span class="authors">G. Gobbi, C. Colombo, S. Miccoli, L. Vergani</span>
-  <span class="year">(2016)</span>.
-  <span class="title">Paper B</span>,
-  <span class="where">to appear</span>.
+  <span class="title">A weakly coupled implementation
+     of hydrogen embrittlement in FE analysis</span>.
+  <span class="where">Submitted for publication</span>.
 {::comment}
   <span class="doi"></span>
 {:/comment}

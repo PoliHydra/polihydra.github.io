@@ -8,7 +8,8 @@ seo:
     links: https://github.com/PoliHydra/hydra/releases
 description: >
     Download page for the Polihydra project: Finite Element tools
-    and examples for the simulation of hydrogen embrittlement.
+    and examples for the simulation of hydrogen embrittlement. Links to
+    relevant software packages and source code.
 ---
 # {{ page.title }}
 
@@ -16,4 +17,5 @@ There is no stable release yet:
 available versions will be listed here and on the
 [releases page](https://github.com/PoliHydra/hydra/releases)
 
-Development code is hosted on [github](https://github.com/PoliHydra/hydra).
+Please feel free to peruse the development code (work-in-prog!) hosted on
+[github](https://github.com/PoliHydra/hydra).
