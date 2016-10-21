@@ -3,6 +3,9 @@ layout: page
 title: Home
 name: The Polihydra Project
 robots: noarchive
+description: >
+    The Polihydra project is a source code repository and documentation
+    source for the FEM simulation of hydrogen embrittlement phenomena.
 ---
 # The Polihydra Project
 

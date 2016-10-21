@@ -15,7 +15,9 @@ description: >
 
 There is no stable release yet:
 available versions will be listed here and on the
-[releases page](https://github.com/PoliHydra/hydra/releases)
+[releases page](https://github.com/PoliHydra/hydra/releases).
 
 Please feel free to peruse the development code (work-in-prog!) hosted on
-[github](https://github.com/PoliHydra/hydra).
+[github](https://github.com/PoliHydra/hydra): a good starting point are the
+[verification examples](
+https://github.com/PoliHydra/hydra/tree/master/verification).

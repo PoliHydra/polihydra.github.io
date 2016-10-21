@@ -3,6 +3,9 @@ layout: page
 title: About
 permalink: /about/
 robots: noarchive
+description: >
+    What the Polihydra project is about and why it was started at
+    Politecnico di Milano.
 ---
 # {{ page.title }}
 
