@@ -17,3 +17,5 @@ sass:
 
 exclude:
   - README.md
+  - Gemfile
+  - Gemfile.lock
