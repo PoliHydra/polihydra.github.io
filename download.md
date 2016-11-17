@@ -21,3 +21,6 @@ Please feel free to peruse the development code (work-in-prog!) hosted on
 [github](https://github.com/PoliHydra/hydra): a good starting point are the
 [verification examples](
 https://github.com/PoliHydra/hydra/tree/master/verification).
+
+Pre-release:
+[v0.1.1](https://github.com/PoliHydra/hydra/releases/tag/v0.1.1)
