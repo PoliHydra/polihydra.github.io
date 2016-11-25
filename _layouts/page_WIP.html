@@ -1,17 +1,15 @@
-<!DOCTYPE html>
-<html>
+---
+layout: base
+---
+<head>
+  {% include head_common.html %}
+  <link rel="stylesheet" href="{{ "/css/wip.css" | prepend: site.baseurl }}">
+</head>
 
-  <head>
-    {% include head_common.html %}
-    <link rel="stylesheet" href="{{ "/css/wip.css" | prepend: site.baseurl }}">
-  </head>
-
-  <body>
-    {% include header.html %}
-    {% include div_wip.html %}
-    {{ content }}
-    {% include footer.html %}
-    {% include div_wip.html %}
-  </body>
-
-</html>
+<body>
+  {% include header.html %}
+  {% include div_wip.html %}
+  {{ content }}
+  {% include footer.html %}
+  {% include div_wip.html %}
+</body>

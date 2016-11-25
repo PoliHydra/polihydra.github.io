@@ -1,19 +1,17 @@
-<!DOCTYPE html>
-<html>
+---
+layout: base
+---
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="robots" content="noindex, nofollow">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
 
-    <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+</head>
 
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  </head>
-
-  <body>
-    {% include header.html %}
-    {{ content }}
-  </body>
-
-</html>
+<body>
+  {% include header.html %}
+  {{ content }}
+</body>
