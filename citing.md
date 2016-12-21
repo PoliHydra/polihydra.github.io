@@ -21,7 +21,7 @@ relevant publications.
   <span class="year">(2016)</span>.
   <span class="title">A weakly coupled implementation
      of hydrogen embrittlement in FE analysis</span>.
-  <span class="where">Submitted for publication</span>.
+  <span class="where">Submitted.</span>.
 {::comment}
   <span class="doi"></span>
 {:/comment}
