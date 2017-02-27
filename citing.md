@@ -18,10 +18,10 @@ relevant publications.
 ## Plane strain, weakly or strongly coupled
 
 * <span class="authors">G. Gobbi, C. Colombo, S. Miccoli, L. Vergani</span>
-  <span class="year">(2016)</span>.
+  <span class="year">(2017)</span>.
   <span class="title">A weakly coupled implementation
      of hydrogen embrittlement in FE analysis</span>.
-  <span class="where">Submitted.</span>.
+  <span class="where">Submitted.</span>
 {::comment}
   <span class="doi"></span>
 {:/comment}
