@@ -15,7 +15,7 @@ relevant publications.
 
 <article class="biblio" markdown="1">
 
-## Plane strain, weakly or strongly coupled
+## Plane strain, weakly coupled
 
 * <span class="authors">G. Gobbi, C. Colombo, S. Miccoli, L. Vergani</span>
   <span class="year">(2018)</span>.

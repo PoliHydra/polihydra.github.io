@@ -56,6 +56,6 @@ hosted on [GitHub Pages](https://pages.github.com/)
 + Stefano Miccoli
 + Laura Vergani
 
-[polimi]: http://www.polimi.it/en/english-version/
-[dmec]: http://www.mecc.polimi.it/en/
+[polimi]: https://www.polimi.it/en/home/
+[dmec]: http://www.mecc.polimi.it/nc/us/
 *[VCS]: version control system
