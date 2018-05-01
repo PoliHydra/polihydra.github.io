@@ -3,7 +3,7 @@ title: The PoliHydra Project
 description: >
   Hydrogen embrittlement FE Analysis tools.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.polihydra.org" # the base hostname & protocol for your site
+url: "https://www.polihydra.org" # the base hostname & protocol for your site
 
 # Build settings
 plugins:
