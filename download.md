@@ -26,6 +26,5 @@ and [examples](https://github.com/PoliHydra/hydra/tree/devel/examples)
 directories.
 
 Pre-releases:
-- v. [0.1.1](https://github.com/PoliHydra/hydra/tree/v0.1.1)
 - v. [0.2.0](https://github.com/PoliHydra/hydra/tree/v0.2.0)
   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1442399.svg)](https://doi.org/10.5281/zenodo.1442399)
